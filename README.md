@@ -1,2 +1,3 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe game
+# Homework #01 - Tic Tac Toe
+
+**Author**: manrongm
